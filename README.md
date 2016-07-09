@@ -1,4 +1,4 @@
 # CalculatorExample
-Calculator Example created for purpose of recruitment
+Calculator Example created for purpose of recruitment.
 
-Ant, Junit, Java
+Ant, Junit, Java 
